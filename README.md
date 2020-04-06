@@ -1,5 +1,5 @@
 # Deep Neural Network Challange (Weizmann Institute)
-## Project: Seq2Seq Predictor
+## Project: Seq2Seq Predictor for Glucose values.
 
 ### Description
 In this project we tried to predict the glucose values, using Seq2Seq Model.(achieved around 0.62 pearson correlation).
